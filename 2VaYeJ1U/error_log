@@ -1,0 +1,4 @@
+[14-Aug-2017 06:53:09 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ddslisco/taoe.ddslis.com/2VaYeJ1U/app/Helpers/EloquentHelper.php on line 1
+[14-Aug-2017 06:53:12 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ddslisco/taoe.ddslis.com/2VaYeJ1U/app/Helpers/EloquentHelper.php on line 1
+[14-Aug-2017 06:54:35 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ddslisco/taoe.ddslis.com/2VaYeJ1U/app/Helpers/EloquentHelper.php on line 1
+[14-Aug-2017 06:54:37 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ddslisco/taoe.ddslis.com/2VaYeJ1U/app/Helpers/EloquentHelper.php on line 1
